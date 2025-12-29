@@ -1,6 +1,6 @@
 ---
 title: "Zhijie Han"
-image: images/lianyujun_2025.png
+image: images/hanzhijie_2025.png
 about:
   id: hero-heading
   template: trestles
@@ -8,32 +8,17 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: Z.Han18@lse.ac.uk
+      href: mailto:Z.Han18@lse.ac.uk
     - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
+      text: Jayhan4869
+      href: https://github.com/jayhan4869
     - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
-    - icon: fingerprint
-      text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
+      text: CNKI
+      href: https://au.cnki.net/author/personalInfo/000057933112?platform=kns-author
     - icon: brands xing
       text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
+      href: https://www.xiaohongshu.com/user/profile/5e47f6d20000000001001a48
     - icon: 📝
       text: CV
       href: CV.pdf  
