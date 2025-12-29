@@ -15,7 +15,7 @@ about:
       href: https://github.com/jayhan4869
     - icon: book
       text: CNKI
-      href: https://au.cnki.net/author/personalInfo/000057933112?platform=kns-author
+      href: https://au.cnki.net/author/personalInfo/000057933112
     - icon: brands xing
       text: 小红书
       href: https://www.xiaohongshu.com/user/profile/5e47f6d20000000001001a48
