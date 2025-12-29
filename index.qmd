@@ -21,7 +21,7 @@ about:
       href: https://www.xiaohongshu.com/user/profile/5e47f6d20000000001001a48
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: Zhijie_CV.pdf  
 ---
 
 ::: {#hero-heading}
